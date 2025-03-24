@@ -1,0 +1,69 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Страница — 1" id="EYuRcWKH3dEgC5jEv00G">
+    <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="te6C2wh0zqt9ro0Oyb4b-11" target="te6C2wh0zqt9ro0Oyb4b-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-16" value="Данные о платеже" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="te6C2wh0zqt9ro0Oyb4b-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.1044" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-11" value="Кассир" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="60" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-13" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="350" y="370" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Принятие оплаты за медицинские услуги&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="te6C2wh0zqt9ro0Oyb4b-13" vertex="1">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-27" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="670" y="370" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-28" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="te6C2wh0zqt9ro0Oyb4b-27" vertex="1">
+          <mxGeometry width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-29" value="1С Бухгалтерия" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="te6C2wh0zqt9ro0Oyb4b-27" vertex="1">
+          <mxGeometry x="26" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="te6C2wh0zqt9ro0Oyb4b-14" target="te6C2wh0zqt9ro0Oyb4b-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-34" value="Информация о принятии&lt;div&gt;денежных средств&lt;/div&gt;&lt;div&gt;[&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap: wrap; caret-color: rgb(0, 0, 0); text-align: start;&quot; data-end=&quot;7028&quot; data-start=&quot;7014&quot;&gt;шифрование&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="te6C2wh0zqt9ro0Oyb4b-33" vertex="1" connectable="0">
+          <mxGeometry x="0.0158" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-35" value="Бухгалтер" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="700" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-39" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="663" y="480" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-40" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Процессинг платежей&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="te6C2wh0zqt9ro0Oyb4b-39" vertex="1">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te6C2wh0zqt9ro0Oyb4b-28" target="te6C2wh0zqt9ro0Oyb4b-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-42" value="Информация о проведенном платеже&lt;div&gt;[Шифрование, RBAC]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="te6C2wh0zqt9ro0Oyb4b-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.406;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="te6C2wh0zqt9ro0Oyb4b-40" target="te6C2wh0zqt9ro0Oyb4b-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te6C2wh0zqt9ro0Oyb4b-44" value="Данные платежа&lt;div&gt;[RBAC]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="te6C2wh0zqt9ro0Oyb4b-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.0701" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
